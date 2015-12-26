@@ -115,6 +115,10 @@ li.header dt, li.header dd {
 	color: #FFFFFF;
 }
 
+dl.icon {
+	background-position: 1px 50%; /* fix for subsilver2 icons */
+}
+
 /* Post body styles
 ----------------------------------------*/
 .postbody {
