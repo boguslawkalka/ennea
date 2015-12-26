@@ -1,0 +1,62 @@
+/* Main blocks
+---------------------------------------- */
+#wrap {
+	border-radius: 0px;
+}
+
+.logo {
+	padding: 0 10px 0 10px;
+}
+
+/* Site description and logo */
+#site-description {
+}
+
+#site-description h1 {
+}
+
+/* Not-round cornered boxes and backgrounds
+---------------------------------------- */
+.headerbar {
+	border-radius: 0px;
+}
+
+.navbar {
+	border-radius: 0px;
+}
+
+.forabg {
+	border-radius: 0px;
+}
+
+.forumbg {
+	border-radius: 0px;
+}
+
+.panel {
+	border-radius: 0px;
+}
+
+.post {
+	border-radius: 0px;
+}
+
+/* Dropdown menu
+----------------------------------------*/
+.dropdown {
+	border-radius: 0px;
+}
+
+.dropdown .dropdown-contents {
+	border-radius: 0px;
+}
+
+/* Miscellaneous styles
+---------------------------------------- */
+div.rules {
+	border-radius: 0px;
+}
+
+.dropdown-extended .header {
+	border-radius: 0px;
+}

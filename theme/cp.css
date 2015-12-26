@@ -1,0 +1,21 @@
+/* CP tabbed menu
+----------------------------------------*/
+
+#tabs .tab > a {
+	border-radius: 0;
+}
+
+/* Mini tabbed menu used in MCP
+----------------------------------------*/
+
+#minitabs .tab > a {
+	border-radius: 0;
+}
+
+/* Preferences pane layout
+----------------------------------------*/
+
+/* Friends list */
+.cp-mini {
+	border-radius: 0;
+}

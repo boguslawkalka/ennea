@@ -1,0 +1,15 @@
+/*  phpBB3 Style Sheet
+    --------------------------------------------------------------
+	Style name:			Ennea
+	Based on style:		Prosilver
+	Original author:	boogi ( http://www.enneagram.pl/ )
+    --------------------------------------------------------------
+*/
+
+@import url("buttons.css");
+@import url("common.css");
+@import url("cp.css");
+@import url("content.css");
+@import url("colours.css");
+@import url("forms.css");
+@import url("imageset.css");

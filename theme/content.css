@@ -1,0 +1,31 @@
+/* Post body styles
+----------------------------------------*/
+.postbody {
+	float: right;
+}
+
+/* Attachments
+----------------------------------------*/
+.attachbox {
+	clear: right;
+}
+
+/* Poster profile block
+----------------------------------------*/
+.postprofile {
+	border-width: 0 1px 0 0;
+	float: left;
+}
+
+/* Post-profile avatars */
+.online {
+	background-image: none; 
+    background-position: 0% 0;  
+    background-repeat: repeat-y;
+}
+
+.offline {
+	background-image: none; 
+    background-position: 0% 0;
+    background-repeat: repeat-y;
+}
